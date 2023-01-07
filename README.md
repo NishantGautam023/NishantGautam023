@@ -5,7 +5,7 @@
  Enthusiastic full stack web developer 👨‍💻 , eager to contribute to team success through hard work, attention to detail, and excellent organizational skills, a clear understanding of frontend, backend, and project management.
 
 
-- 🥅 2022 Goals: Experiment, learn and build stuffs with my skillsets. 
+- 🥅 2023 Goals: Experiment, learn and build stuffs with my skillsets. 
 - 👩🏻‍💻 Pronouns:  He/him/his
 - ⚡ Fun fact: I love travelling and watching anime
 - 💬 Ask me about Tech-related stuff and invite me for group travels 🗺️🧳✈️
