@@ -47,10 +47,6 @@
 <br />
 <br/>
 
-Views:
-<img align="center" src="https://profile-counter.glitch.me/{NishantGautam023}/count.svg"/>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=NishantGautam023&count_private=true&show_icons=true&theme=radical"/>
-<br/>
 
 ---
