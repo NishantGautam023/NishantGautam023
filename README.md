@@ -2,7 +2,7 @@
 
 # Bonjour, Nishant Gautam! 👋
 
- Enthusiastic full stack web developer 👨‍💻 , eager to contribute to team success through hard work, attention to detail, and excellent organizational skills, a clear understanding of frontend, backend, and project management.
+ Enthusiastic Engineer 👨‍💻 , eager to contribute to team success through hard work, attention to detail, and excellent organizational skills, a clear understanding of frontend, backend, and project management.
 
 
 - 🥅 2023 Goals: Experiment, learn and build stuffs with my skillsets. 
