@@ -2,15 +2,18 @@
 
 # Bonjour, Nishant Gautam! 👋
 
- Enthusiastic Engineer 👨‍💻 , eager to contribute to team success through hard work, attention to detail, and excellent organizational skills, a clear understanding of frontend, backend, and project management.
+I'm a Enthusiastic Full-Stack Developer 👨‍💻 with passion for Devops. I always aim for best code quality and smooth coding. I'm excited about using new technologies in my Projects. Learning new things is important to me. I also love travelling,moutain trekking, and  driving to explore different places.  
 
 
-- 🥅 2023 Goals: Experiment, learn and build stuffs with my skillsets. 
-- 👩🏻‍💻 Pronouns:  He/him/his
-- ⚡ Fun fact: I love travelling and watching anime
-- 💬 Ask me about Tech-related stuff and invite me for group travels 🗺️🧳✈️
 
-### Connect with me:
+### 🛠️ Technologies & Tools
+- **Languages**: Python, Java, JavaScript, GoLang
+- **Web Technologies**: Proficent in most JavaScript frameworks and libraries
+- **Mobile Development**: React Native
+- **Databases**: NoSQL and Relational Databases
+- **DevOps Tools**: AWS, Docker, Github Actions, Terraform, Grafana
+- **Version Control and OS**: Git/ Github / Gitlab, Linux and Macos
+
 
 <a href="https://www.linkedin.com/" target="_blank">
   <img align="left" alt="Nishant Gautam | Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
