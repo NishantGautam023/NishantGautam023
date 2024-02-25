@@ -2,7 +2,7 @@
 
 # Bonjour, Nishant Gautam! 👋
 
-I'm a Enthusiastic Full-Stack Developer 👨‍💻 with passion for Devops. I always aim for best code quality and smooth coding. I'm excited about using new technologies in my Projects. Learning new things is important to me. I also love travelling,moutain trekking, and  driving to explore different places.  
+I'm a Enthusiastic Full-Stack Developer 👨‍💻 with passion for Devops. I always aim to ensure software reliability, performance and user satisfaction.  I'm excited about using new technologies in my Projects. Learning new things is important to me. I also love travelling,moutain trekking, and  driving to explore different places.  
 
 
 
